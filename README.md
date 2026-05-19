@@ -5,13 +5,13 @@ I am a results-driven Data Analyst with a strong background in Finance and Infor
 
 ---
 
-## 📌 About Me
+##  About Me
 
-* 📊 Skilled in data analysis, visualization, and reporting
-* 🐍 Experienced with Python, SQL, Excel, and Power BI/Tableau
-* 📈 Passionate about turning data into actionable insights
-* 🌱 Currently improving my skills in machine learning and advanced analytics
-* 💡 Interested in business intelligence, automation, and predictive analysis
+*  Skilled in data analysis, visualization, and reporting
+*  Experienced with Python, SQL, Excel, and Power BI/Tableau
+*  Passionate about turning data into actionable insights
+*  Currently improving my skills in machine learning and advanced analytics
+*  Interested in business intelligence, automation, and predictive analysis
 
 ---
 
@@ -48,31 +48,31 @@ I am a results-driven Data Analyst with a strong background in Finance and Infor
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 📊 Sales Performance Dashboard
+### Sales Performance Dashboard
 
 * **Tools:** Power BI, Excel, SQL
 * Developed an interactive dashboard to track sales trends, customer behavior, and KPI performance.
 
-### 📈 Customer Churn Analysis
+### Customer Churn Analysis
 
 * **Tools:** Python, Pandas, Scikit-learn
 * Analyzed customer behavior patterns and identified factors contributing to churn.
 
-### 🧹 Data Cleaning & Transformation
+### Data Cleaning & Transformation
 
 * **Tools:** Python, Excel
 * Cleaned and transformed raw datasets to improve reporting accuracy and analysis efficiency.
 
-### 🏦 Financial Data Analysis
+### Financial Data Analysis
 
 * **Tools:** SQL, Tableau
 * Performed exploratory data analysis on financial datasets to identify trends and support strategic decisions.
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 * Google Data Analytics Certificate
 * Microsoft Power BI Data Analyst Associate
@@ -80,14 +80,14 @@ I am a results-driven Data Analyst with a strong background in Finance and Infor
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/ifeyinwa-nwolisa-250285108
 * Email: [Your Email]
 
 ---
 
-## 📌 GitHub Stats
+## GitHub Stats
 
 ```md
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
