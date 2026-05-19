@@ -15,18 +15,17 @@ I am a results-driven Data Analyst with a strong background in Finance and Infor
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Programming & Query Languages
 
 * Python
 * SQL
-* R
+
 
 ### Data Analysis & Visualization
 
 * Power BI
-* Tableau
 * Microsoft Excel
 * Pandas
 * NumPy
@@ -36,14 +35,12 @@ I am a results-driven Data Analyst with a strong background in Finance and Infor
 ### Databases
 
 * MySQL
-* PostgreSQL
-* SQLite
+
 
 ### Tools & Platforms
 
 * Git & GitHub
 * Jupyter Notebook
-* VS Code
 * Google Sheets
 
 ---
@@ -65,9 +62,9 @@ I am a results-driven Data Analyst with a strong background in Finance and Infor
 * **Tools:** Python, Excel
 * Cleaned and transformed raw datasets to improve reporting accuracy and analysis efficiency.
 
-### Financial Data Analysis
+### Data Analysis
 
-* **Tools:** SQL, Tableau
+* **Tools:** SQL, Python
 * Performed exploratory data analysis on financial datasets to identify trends and support strategic decisions.
 
 ---
@@ -83,19 +80,7 @@ I am a results-driven Data Analyst with a strong background in Finance and Infor
 ## Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/ifeyinwa-nwolisa-250285108
-* Email: [Your Email]
-
----
-
-## GitHub Stats
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-```
-
-```md
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-```
+* Email: nwolisaify@gmail.com
 
 ---
 
