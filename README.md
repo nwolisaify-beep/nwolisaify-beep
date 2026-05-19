@@ -1,4 +1,4 @@
-# Hi there, I'm Nwolisa Ifeyinwa
+# Hi, I'm Nwolisa Ifeyinwa
 Data Analyst | Finance Professional | Business Intelligence & Information Systems Management Specialist
 
 I am a results-driven Data Analyst with a strong background in Finance and Information Systems Management, passionate about transforming complex data into actionable business insights. With an MSc in Finance and a Diploma in Information Systems Management, I combine analytical thinking, financial intelligence, and technical problem-solving skills to build data-driven solutions, develop impactful dashboards, and support strategic decision-making across business and financial environments.
