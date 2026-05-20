@@ -71,8 +71,10 @@ I am a results-driven Data Analyst with a strong background in Finance and Infor
 
 ## Certifications
 
-* Diploma in information Sysem Management (DISM) - Aptech worldwide
-* Data Analytics and Machine Learning - Tech Studio Academy
+* Diploma in information Sysem Management|[Aptech Worldwide]   
+* Data Analytics and Machine Learning [Tech Studio Academy]
+* B.Sc. in Economics and Statistics [University of Benin]
+* M.sc. in Finance [University of Lagos]
 
 
 ---
